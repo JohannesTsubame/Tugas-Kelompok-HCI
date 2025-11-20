@@ -1,0 +1,16 @@
+Materi PPT HCI
+
+A. Definisi Groupware 
+
+Groupware adalah software yang didesain dan dibuat untuk membantu kolaborasi antar manusia seperti penyebaran informasi dan komunikasi antar user
+
+Istilah "Groupware" diciptakan oleh Peter dan Trudy Johnson-Lenz pada tahun 1978 dimana Peter dan Trudy mendefinisikan Groupware sebagai "proses kelompok dengan tambahan software sebagai alat bantu"
+
+B. Sejarah Groupware
+Groupware pertama kali dikemukakan oleh Douglas Engelbart pada tahun 1951 dengan prototype yang berfungsi sepenuhnya dan digunakan secara operasional oleh tim riset Douglas pada pertengahan tahun 1960-an
+
+Pada tahun 1971 Ray Tomlinson yang membuat sistem email pertama untuk Advanced Research Projects Agency Network (ARPANET) yang kemudian yang menjadi semakin popular pada akhir tahun 1980-an
+
+Fitur real time chat antar user untuk ARPANET pada tahun 1972
+
+Perilisan CompuServe's CM Simulator pada tahun 1984 memperkenalkan fitur groupchat

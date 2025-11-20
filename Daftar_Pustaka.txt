@@ -1,0 +1,11 @@
+GROUPWARE:
+https://en.wikipedia.org/wiki/Collaborative_software
+https://www.geeksforgeeks.org/computer-networks/what-is-groupware-in-distributed-system/
+https://www.ebsco.com/research-starters/computer-science/collaborative-software-groupware
+https://en.wikipedia.org/wiki/CB_Simulator
+
+CSCW:
+https://en.wikipedia.org/wiki/Computer-supported_cooperative_work
+
+EXTRA:
+https://en.wikipedia.org/wiki/ARPANET
