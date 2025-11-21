@@ -14,3 +14,8 @@ Pada tahun 1971 Ray Tomlinson yang membuat sistem email pertama untuk Advanced R
 Fitur real time chat antar user untuk ARPANET pada tahun 1972
 
 Perilisan CompuServe's CM Simulator pada tahun 1984 memperkenalkan fitur groupchat
+
+C. Manfaat Groupware
+
+
+D. Contoh-Contoh Groupware
